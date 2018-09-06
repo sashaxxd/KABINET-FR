@@ -1,0 +1,114 @@
+.auth{
+    background-color: #FF8C00;
+    color: #ffffff;
+}
+#head_mod{
+    width: 100%;
+    height: 40px;
+    background-color: #04C4B7;
+    color: #FFFFFF;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+#layout_uid1  a:hover{
+
+    text-decoration: underline;
+}
+
+/**
+Кнопка закрытия меню
+*/
+#ResponsiveMenu1-icon:hover{
+    cursor: pointer;
+}
+#layout_ResponsiveMenu1 .toggle:hover {
+    /*background-color: #424242;*/
+    /*color: #009966;*/
+}
+
+.m_close {
+    position: relative;
+    left: 5px;
+    top: 10px;
+    /*width: 23px;*/
+    height: 23px;
+    opacity: 1;
+    cursor: pointer;
+}
+.m_close:hover {
+    opacity: 1;
+}
+.m_close:before, .m_close:after {
+    position: absolute;
+    left: 15px;
+    content: ' ';
+    height: 23px;
+    width: 2px;
+    background-color: #FFFFFF;
+}
+.m_close:before {
+    transform: rotate(45deg);
+}
+.m_close:after {
+    transform: rotate(-45deg);
+}
+/*
+Ставим высоту что бы не было рывков при открытии меню
+*/
+#ResponsiveMenu1 {
+
+    height: auto;
+}
+/**
+Футер снизу
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+html,
+body {
+    height: 100%;
+}
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.content {
+    flex: 1 0 auto;
+}
+.footer {
+    flex: 0 0 auto;
+}
+
+label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: lighter;
+}
+
+#Button_job_filter{
+    background-color: #04C4B7;
+    color: #FFFFFF;
+    margin-top: 10px;
+    float: right;
+}
+#Button_job_choose{
+    background-color: #04C4B7;
+    color: #FFFFFF;
+    margin-top: 10px;
+    float: right;
+    margin-right: 5px;
+}
+#Button_job_clear{
+    background-color: #04C4B7;
+    color: #FFFFFF;
+    margin-top: 10px;
+    float: right;
+    margin-right: 5px;
+}

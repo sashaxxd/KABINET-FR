@@ -1,0 +1,188 @@
+#freelance_hit {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    background-color: transparent;
+    background-image: url(../images/hit2.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 0px #CCCCCC solid;
+    box-sizing: border-box;
+    clear: both;
+    display: table;
+    position: relative;
+    table-layout: fixed;
+    text-align: center;
+    width: 100%;
+}
+#hit {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 80px 15px 150px 15px;
+}
+#hit .row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+#hit .col-1 {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 0px;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+}
+#hit {
+}
+#hit .col-1 {
+    float: left;
+}
+#hit .col-1 {
+    background-color: transparent;
+    background-image: none;
+    text-align: left;
+    width: 100%;
+}
+#hit:before,
+#hit:after,
+#hit .row:before,
+#hit .row:after {
+    content: " ";
+    display: table;
+}
+#hit:after,
+#hit .row:after {
+    clear: both;
+}
+@media (max-width: 480px) {
+    #hit .col-1 {
+        float: none;
+        width: 100%;
+    }
+}
+#freelance_slogan {
+    background-color: transparent;
+    background-image: none;
+    border: 0px #000000 solid;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+#freelance_slogan div {
+    text-align: center;
+}
+#freelance_fr_rab {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    background-color: transparent;
+    background-image: none;
+    border: 0px #CCCCCC solid;
+    box-sizing: border-box;
+    clear: both;
+    display: table;
+    position: relative;
+    table-layout: fixed;
+    text-align: center;
+    width: 100%;
+}
+#fr_rab {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px 15px 30px 15px;
+}
+#fr_rab .row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+#fr_rab .col-1,
+#fr_rab .col-2 {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 0px;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+}
+#fr_rab {
+}
+#fr_rab .col-1,
+#fr_rab .col-2 {
+    float: left;
+}
+#fr_rab .col-1 {
+    background-color: transparent;
+    background-image: none;
+    text-align: left;
+    width: 50%;
+}
+#fr_rab .col-2 {
+    background-color: transparent;
+    background-image: none;
+    text-align: left;
+    width: 50%;
+}
+#fr_rab:before,
+#fr_rab:after,
+#fr_rab .row:before,
+#fr_rab .row:after {
+    content: " ";
+    display: table;
+}
+#fr_rab:after,
+#fr_rab .row:after {
+    clear: both;
+}
+@media (max-width: 480px) {
+    #fr_rab .col-1,
+    #fr_rab .col-2 {
+        float: none;
+        width: 100%;
+    }
+}
+#freelance_rab_text {
+    background-color: transparent;
+    background-image: none;
+    border: 0px #000000 solid;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+#freelance_rab_text div {
+    text-align: left;
+}
+#freelance_fr_text {
+    background-color: transparent;
+    background-image: none;
+    border: 0px #000000 solid;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+#freelance_fr_text div {
+    text-align: left;
+}
+#freelance_uid1 {
+    color: #000000;
+    font-family: Roboto Light;
+    font-size: 13px;
+}
+#freelance_uid2 {
+    color: #000000;
+    font-family: Roboto Light;
+    font-size: 13px;
+}
+#freelance_uid0 {
+    color: #FFFFFF;
+    font-family: Roboto Medium;
+    font-size: 48px;
+}

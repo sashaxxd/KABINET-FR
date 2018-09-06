@@ -1,0 +1,599 @@
+#job_Text3 {
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   margin: 0;
+   padding: 0px 0px 10px 0px;
+   text-align: left;
+}
+#job_Text3 div {
+   text-align: left;
+}
+#job_content {
+   -moz-box-sizing: border-box;
+   -webkit-box-sizing: border-box;
+   background-color: #F5F5F5;
+   background-image: none;
+   border: 0px #CCCCCC solid;
+   box-sizing: border-box;
+   clear: both;
+   display: table;
+   position: relative;
+   table-layout: fixed;
+   text-align: center;
+   width: 100%;
+}
+#content {
+   -moz-box-sizing: border-box;
+   -webkit-box-sizing: border-box;
+   box-sizing: border-box;
+   margin-left: auto;
+   margin-right: auto;
+   padding: 50px 15px 50px 15px;
+}
+#content .row {
+   margin-left: -15px;
+   margin-right: -15px;
+}
+#content .col-1,
+#content .col-2 {
+   -moz-box-sizing: border-box;
+   -webkit-box-sizing: border-box;
+   box-sizing: border-box;
+   font-size: 0px;
+   min-height: 1px;
+   padding-left: 15px;
+   padding-right: 15px;
+   position: relative;
+}
+#content .col-1,
+#content .col-2 {
+   float: left;
+}
+#content .col-1 {
+   background-color: transparent;
+   background-image: none;
+   text-align: left;
+   width: 75%;
+}
+#content .col-2 {
+   background-color: transparent;
+   background-image: none;
+   text-align: left;
+   width: 25%;
+}
+#content:before,
+#content:after,
+#content .row:before,
+#content .row:after {
+   content: " ";
+   display: table;
+}
+#content:after,
+#content .row:after {
+   clear: both;
+}
+@media (max-width: 480px) {
+   #content .col-1,
+   #content .col-2 {
+      float: none;
+      width: 100%;
+   }
+}
+#job_Image2 {
+   vertical-align: top;
+}
+#Image2 {
+   border: 0px #000000 solid;
+   -moz-box-sizing: border-box;
+   -webkit-box-sizing: border-box;
+   box-sizing: border-box;
+   display: inline-block;
+   height: 50px;
+   padding: 0px 0px 0px 0px;
+   vertical-align: top;
+   width: 50px;
+}
+#job_LayoutGrid3 {
+   -moz-box-sizing: border-box;
+   -webkit-box-sizing: border-box;
+   background-color: transparent;
+   background-image: none;
+   border: 0px #CCCCCC solid;
+   box-sizing: border-box;
+   clear: both;
+   display: table;
+   position: relative;
+   table-layout: fixed;
+   text-align: center;
+   width: 100%;
+}
+#LayoutGrid3 {
+   -moz-box-sizing: border-box;
+   -webkit-box-sizing: border-box;
+   box-sizing: border-box;
+   margin-left: auto;
+   margin-right: auto;
+   padding: 20px 15px 20px 15px;
+}
+#LayoutGrid3 .row {
+   margin-left: -15px;
+   margin-right: -15px;
+}
+#LayoutGrid3 .row .col-1,
+#LayoutGrid3 .row .col-2 {
+   -moz-box-sizing: border-box;
+   -webkit-box-sizing: border-box;
+   box-sizing: border-box;
+   font-size: 0px;
+   min-height: 1px;
+   padding-left: 15px;
+   padding-right: 15px;
+   position: relative;
+}
+#LayoutGrid3 .row .col-1,
+#LayoutGrid3 .row .col-2 {
+   float: left;
+}
+#LayoutGrid3 .row .col-1 {
+   background-color: transparent;
+   background-image: none;
+   text-align: left;
+   width: 75%;
+}
+#LayoutGrid3 .row .col-2 {
+   background-color: transparent;
+   background-image: none;
+   text-align: center;
+   width: 25%;
+}
+#LayoutGrid3:before,
+#LayoutGrid3:after,
+#LayoutGrid3 .row:before,
+#LayoutGrid3 .row:after {
+   content: " ";
+   display: table;
+}
+#LayoutGrid3:after,
+#LayoutGrid3 .row:after {
+   clear: both;
+}
+@media (max-width: 480px) {
+   #LayoutGrid3 .row .col-1,
+   #LayoutGrid3 .row .col-2 {
+      float: none;
+      width: 100%;
+   }
+}
+#job_Text4 {
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   margin: 0;
+   padding: 0;
+   text-align: left;
+}
+#job_Text4 div {
+   text-align: left;
+}
+#job_Text5 {
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   margin: 0;
+   padding: 0;
+   text-align: center;
+}
+#job_Text5 div {
+   text-align: center;
+}
+#job_Image3 {
+   vertical-align: top;
+}
+#Image3 {
+   border: 0px #000000 solid;
+   -moz-box-sizing: border-box;
+   -webkit-box-sizing: border-box;
+   box-sizing: border-box;
+   display: inline-block;
+   height: 111px;
+   padding: 0px 0px 0px 0px;
+   vertical-align: top;
+   width: 212px;
+}
+#Line1 {
+   background-color: #A0A0A0;
+   border-width: 0;
+   color: #A0A0A0;
+   margin: 0;
+   padding: 0;
+}
+#Line2 {
+   background-color: #A0A0A0;
+   border-width: 0;
+   color: #A0A0A0;
+   margin: 0;
+   padding: 0;
+}
+#job_LayoutGrid1 {
+   -moz-box-sizing: border-box;
+   -webkit-box-sizing: border-box;
+   background-color: transparent;
+   background-image: none;
+   border: 0px #CCCCCC solid;
+   box-sizing: border-box;
+   clear: both;
+   display: table;
+   position: relative;
+   table-layout: fixed;
+   text-align: center;
+   width: 100%;
+}
+#LayoutGrid1 {
+   -moz-box-sizing: border-box;
+   -webkit-box-sizing: border-box;
+   box-sizing: border-box;
+   margin-left: auto;
+   margin-right: auto;
+   padding: 0px 15px 0px 15px;
+}
+#LayoutGrid1 .row {
+   margin-left: -15px;
+   margin-right: -15px;
+}
+#LayoutGrid1 .row .col-1,
+#LayoutGrid1 .row .col-2 {
+   -moz-box-sizing: border-box;
+   -webkit-box-sizing: border-box;
+   box-sizing: border-box;
+   font-size: 0px;
+   min-height: 1px;
+   padding-left: 15px;
+   padding-right: 15px;
+   position: relative;
+}
+#LayoutGrid1 .row .col-1,
+#LayoutGrid1 .row .col-2 {
+   float: left;
+}
+#LayoutGrid1 .row .col-1 {
+   background-color: transparent;
+   background-image: none;
+   text-align: left;
+   width: 50%;
+}
+#LayoutGrid1 .row .col-2 {
+   background-color: transparent;
+   background-image: none;
+   text-align: left;
+   width: 50%;
+}
+#LayoutGrid1:before,
+#LayoutGrid1:after,
+#LayoutGrid1 .row:before,
+#LayoutGrid1 .row:after {
+   content: " ";
+   display: table;
+}
+#LayoutGrid1:after,
+#LayoutGrid1 .row:after {
+   clear: both;
+}
+@media (max-width: 480px) {
+   #LayoutGrid1 .row .col-1,
+   #LayoutGrid1 .row .col-2 {
+      float: none;
+      width: 100%;
+   }
+}
+#Line3 {
+   background-color: #F5F5F5;
+   border-width: 0;
+   color: #F5F5F5;
+   margin: 0;
+   padding: 0;
+}
+#Line4 {
+   background-color: #F5F5F5;
+   border-width: 0;
+   color: #F5F5F5;
+   margin: 0;
+   padding: 0;
+}
+#job_LayoutGrid2 {
+   -moz-box-sizing: border-box;
+   -webkit-box-sizing: border-box;
+   background-color: transparent;
+   background-image: none;
+   border: 0px #CCCCCC solid;
+   box-sizing: border-box;
+   clear: both;
+   display: table;
+   position: relative;
+   table-layout: fixed;
+   text-align: center;
+   width: 100%;
+}
+#LayoutGrid2 {
+   -moz-box-sizing: border-box;
+   -webkit-box-sizing: border-box;
+   box-sizing: border-box;
+   margin-left: auto;
+   margin-right: auto;
+   padding: 20px 15px 20px 15px;
+}
+#LayoutGrid2 .row {
+   margin-left: -15px;
+   margin-right: -15px;
+}
+#LayoutGrid2 .row .col-1,
+#LayoutGrid2 .row .col-2,
+#LayoutGrid2 .row .col-3 {
+   -moz-box-sizing: border-box;
+   -webkit-box-sizing: border-box;
+   box-sizing: border-box;
+   font-size: 0px;
+   min-height: 1px;
+   padding-left: 15px;
+   padding-right: 15px;
+   position: relative;
+}
+#LayoutGrid2 .row .col-1,
+#LayoutGrid2 .row .col-2,
+#LayoutGrid2 .row .col-3 {
+   float: left;
+}
+#LayoutGrid2 .row .col-1 {
+   background-color: transparent;
+   background-image: none;
+   text-align: center;
+   width: 33.33333333%;
+}
+#LayoutGrid2 .row .col-2 {
+   background-color: transparent;
+   background-image: none;
+   text-align: center;
+   width: 33.33333333%;
+}
+#LayoutGrid2 .row .col-3 {
+   background-color: transparent;
+   background-image: none;
+   text-align: center;
+   width: 33.33333333%;
+}
+#LayoutGrid2:before,
+#LayoutGrid2:after,
+#LayoutGrid2 .row:before,
+#LayoutGrid2 .row:after {
+   content: " ";
+   display: table;
+}
+#LayoutGrid2:after,
+#LayoutGrid2 .row:after {
+   clear: both;
+}
+@media (max-width: 480px) {
+   #LayoutGrid2 .row .col-1,
+   #LayoutGrid2 .row .col-2,
+   #LayoutGrid2 .row .col-3 {
+      float: none;
+      width: 100%;
+   }
+}
+#job_FontAwesomeIcon2 {
+   background-color: transparent;
+   background-image: none;
+   border: 0px #245580 solid;
+   padding: 0px 0px 0px 0px;
+   text-align: center;
+   vertical-align: top;
+}
+#job_FontAwesomeIcon2:hover {
+   background-color: transparent;
+   background-image: none;
+   border: 0px #245580 solid;
+}
+#FontAwesomeIcon2 {
+   height: 22px;
+   width: 35px;
+}
+#FontAwesomeIcon2 i {
+   color: #696969;
+   display: inline-block;
+   font-size: 22px;
+   line-height: 22px;
+   vertical-align: middle;
+   width: 18px;
+}
+#job_FontAwesomeIcon2:hover i {
+   color: #337AB7;
+}
+#job_Text8 {
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   margin: 0;
+   padding: 0;
+   text-align: center;
+}
+#job_Text8 div {
+   text-align: center;
+}
+#job_FontAwesomeIcon3 {
+   background-color: transparent;
+   background-image: none;
+   border: 0px #245580 solid;
+   padding: 0px 0px 0px 0px;
+   text-align: center;
+   vertical-align: top;
+}
+#job_FontAwesomeIcon3:hover {
+   background-color: transparent;
+   background-image: none;
+   border: 0px #245580 solid;
+}
+#FontAwesomeIcon3 {
+   height: 19px;
+   width: 24px;
+}
+#FontAwesomeIcon3 i {
+   color: #696969;
+   display: inline-block;
+   font-size: 19px;
+   line-height: 19px;
+   vertical-align: middle;
+   width: 19px;
+}
+#job_FontAwesomeIcon3:hover i {
+   color: #337AB7;
+}
+#job_Text9 {
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   margin: 0;
+   padding: 0;
+   text-align: center;
+}
+#job_Text9 div {
+   text-align: center;
+}
+#job_FontAwesomeIcon4 {
+   background-color: transparent;
+   background-image: none;
+   border: 0px #245580 solid;
+   padding: 0px 0px 0px 0px;
+   text-align: center;
+   vertical-align: top;
+}
+#job_FontAwesomeIcon4:hover {
+   background-color: transparent;
+   background-image: none;
+   border: 0px #245580 solid;
+}
+#FontAwesomeIcon4 {
+   height: 20px;
+   width: 48px;
+}
+#FontAwesomeIcon4 i {
+   color: #696969;
+   display: inline-block;
+   font-size: 20px;
+   line-height: 20px;
+   vertical-align: middle;
+   width: 17px;
+}
+#job_FontAwesomeIcon4:hover i {
+   color: #337AB7;
+}
+#job_Text10 {
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   margin: 0;
+   padding: 0;
+   text-align: center;
+}
+#job_Text10 div {
+   text-align: center;
+}
+#job_uid1 {
+   color: #FF8C00;
+   font-family: Roboto Medium;
+   font-size: 24px;
+}
+#job_FontAwesomeIcon2 {
+   display: inline-block;
+   height: 22px;
+   text-align: center;
+   width: 35px;
+   z-index: 4;
+}
+#job_uid2 {
+   color: #000000;
+   font-family: Roboto Light;
+   font-size: 15px;
+}
+#job_FontAwesomeIcon3 {
+   display: inline-block;
+   height: 19px;
+   text-align: center;
+   width: 24px;
+   z-index: 6;
+}
+#job_uid3 {
+   color: #696969;
+   font-family: Roboto Light;
+   font-size: 17px;
+}
+#job_FontAwesomeIcon4 {
+   display: inline-block;
+   height: 20px;
+   text-align: center;
+   width: 48px;
+   z-index: 8;
+}
+#job_uid4 {
+   color: #696969;
+   font-family: Roboto Light;
+   font-size: 17px;
+}
+#job_uid5 {
+   color: #696969;
+   font-family: Roboto Light;
+   font-size: 17px;
+}
+#job_Image2 {
+   display: inline-block;
+   height: 50px;
+   width: 50px;
+   z-index: 3;
+}
+#job_Image3 {
+   display: inline-block;
+   height: 111px;
+   width: 212px;
+   z-index: 15;
+}
+#job_uid6 {
+   color: #696969;
+   font-family: Roboto Light;
+   font-size: 17px;
+}
+#job_uid7 {
+   color: #FF8C00;
+   font-family: Roboto Light;
+   font-size: 17px;
+}
+#Line1 {
+   display: block;
+   height: 2px;
+   width: 100%;
+   z-index: 11;
+}
+#Line2 {
+   display: block;
+   height: 2px;
+   width: 100%;
+   z-index: 13;
+}
+#Line4 {
+   display: block;
+   height: 22px;
+   width: 100%;
+   z-index: 2;
+}
+#job_uid0 {
+   color: #000000;
+   font-family: Roboto Light;
+   font-size: 20px;
+}
+
+#job_uid1 a{
+   color: #FF8C00;
+}
+
+#job_uid1 a:visited {
+   color: #777777;
+   text-decoration: underline;
+}
